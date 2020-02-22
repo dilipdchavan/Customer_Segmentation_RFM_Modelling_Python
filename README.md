@@ -29,7 +29,7 @@ Now we will use python libraries to calculate Recency, Frequency, Monetary score
 
  
 
-! [RFM_Overall_Score] (RFM_Overall_Score.png)
+![RFM_Overall_Score](RFM_Overall_Score.png)
 
 Please refer python code for better understanding & visualization.
 
