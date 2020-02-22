@@ -22,6 +22,7 @@ You can do many different segmentations according to what you are trying to achi
 
 As the methodology, we need to calculate Recency, Frequency and Monetary Value (we will call it Revenue from now on) and apply unsupervised machine learning to identify different groups (clusters) for each. Let’s jump into coding and see how to do RFM Clustering.
 
+### Example - Customer Segmentation - RFM
 For this example, will again use same data set used for Customer Metric Modeling [online retail data].
 Now we will use python libraries to calculate Recency, Frequency, Monetary score for each individual customer.
 
